@@ -2,12 +2,12 @@
 
 미디어플러스에서 제공하는 NAVERCLOUD VPE Player의 Apple FairPlay DRM 데모 코드
 
-![](https://nnbkegvqsbcu5297614.cdn.ntruss.com/profile/202308/db85e25df98bf242d0ae25724a975dd7.png)
+![](https://nnbkegvqsbcu5297614.cdn.ntruss.com/profile/202308/d7f26783d4781ed80a839ab21c8c1596.png)
 
 
 
 ## 소스코드
-[https://github.com/SGRsoft-Dev/vpe.drm.apple-fps.demo](https://github.com/SGRsoft-Dev/vpe.drm.apple-fps.demo)
+[https://github.com/SGRsoft-Dev/vpe.drm.apple.fairplay.demo](https://github.com/SGRsoft-Dev/vpe.drm.apple.fairplay.demo)
 
 
 *** 
