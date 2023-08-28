@@ -44,6 +44,23 @@ https://pallycon.com/ko/drm-platform/
 
 ***
 
+## VOD Station FairPlay DRM 채널 설정
+
+![](https://nnbkegvqsbcu5297614.cdn.ntruss.com/profile/202308/ae71c2c94ffc5011b81064fd81aecabf.png)
+
+- 펠리컨 대시보드 > 멀티DRM > DRM 세팅 > 사이트키 복사
+- DRM System ID는 FairPlay DRM 공통값입니다.
+```
+94ce86fb-07ff-4f43-adb8-93d2fa968ca2
+```
+- DRM Key URL은 Widevine/PlayReady DRM 공통값입니다.
+- 펠리컨 대시보드 > 멀티DRM > DRM 세팅 > KMS 토큰
+```
+https://kms.pallycon.com/v2/cpix/pallycon/getKey/{KMS 토큰}
+```
+
+*** 
+
 ## 실행방법
 
 ```bash
@@ -99,8 +116,8 @@ SGRSOFT 개발팀  : dev@sgrsoft.com
 SGRSOFT를 통하여 네이버클라우드 플랫폼 크래딧을 지원 받을 수 있습니다. (최대 300만원)
 
 
-미디어플러스 웹사이트 :
-[https://mediaplus.co.kr/](https://mediaplus.co.kr/)
+미디어플러스 데모 웹사이트 :
+[https://mediaplus-demo.web.app/](https://mediaplus-demo.web.app/)
 
 ![](https://nnbkegvqsbcu5297614.cdn.ntruss.com/profile/202308/851b6ea05f1fcc1cb827d841ca32346d.png)
 
